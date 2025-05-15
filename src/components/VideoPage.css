@@ -1,0 +1,22 @@
+.video-page {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #121212;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.loading-text {
+    position: absolute;
+    top: 20px;
+    font-size: 1.2rem;
+    color: #aaa;
+}
+
+.video-container {
+    width: 100%;
+    height: 100%;
+}
